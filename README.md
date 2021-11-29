@@ -1,0 +1,2 @@
+# DeepLearningRNN
+Redes Neurais Recorrentes
